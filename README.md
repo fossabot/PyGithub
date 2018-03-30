@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/license-LGPL-blue.svg)](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
 [![Join the chat at https://gitter.im/PyGithub/PyGithub](https://badges.gitter.im/PyGithub/PyGithub.svg)](https://gitter.im/PyGithub/PyGithub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/pygithub/pygithub/badges/users.svg)](https://www.codetriage.com/pygithub/pygithub)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsfdye%2FPyGithub.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsfdye%2FPyGithub?ref=badge_shield)
 
 PyGitHub is a Python (2 and 3) library to access the [GitHub API v3].
 This library enables you to manage [GitHub] resources such as repositories, user profiles, and organizations in your Python applications.
@@ -56,3 +57,7 @@ For more information read [CONTRIBUTING.md].
 
 We're actively seeking maintainers that will triage issues and pull requests and cut releases.
 If you work on a project that leverages PyGitHub and have a vested interest in keeping the code alive and well, send an email to someone in the MAINTAINERS file.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsfdye%2FPyGithub.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsfdye%2FPyGithub?ref=badge_large)
